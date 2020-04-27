@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttermidtranspayment (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fluttermidtranspayment (from `.symlinks/plugins/fluttermidtranspayment/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fluttermidtranspayment:
+    :path: ".symlinks/plugins/fluttermidtranspayment/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  fluttermidtranspayment: 287f1df9c26d3134fde7186e2e7ea41868274fb7
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
